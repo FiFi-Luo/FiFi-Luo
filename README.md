@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Personal Information
+
+**Name:** Hongfei Luo
+
+## Education
+
+### The Hong Kong University of Science and Technology  
+**Bachelor of Science**  
+**Major:** Mathematics  
+**Minor:** Biological Science    
+**Dates:** September 2022 - Present
+
+### Lehigh University  
+**Exchange Program**    
+**Dates:** January 2025 - May 2025
+
+## Goals
+
+In the next five years, I aim to explore and find a research topic that truly interests me. Additionally, I wish to learn more about the healthcare industry.
