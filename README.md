@@ -30,7 +30,3 @@ Here are some ideas to get you started:
 ### Lehigh University  
 **Exchange Program**    
 **Dates:** January 2025 - May 2025
-
-## Goals
-
-In the next five years, I aim to explore and find a research topic that truly interests me. Additionally, I wish to learn more about the healthcare industry.
